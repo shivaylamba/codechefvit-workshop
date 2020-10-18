@@ -1,0 +1,737 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 9;
+	--web-view-id: Web_1920__9;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__9;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__9 {
+	position: absolute;
+	width: 1920px;
+	height: 2973px;
+	background-color: rgba(235,235,235,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 9;
+	--web-view-id: Web_1920__9;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Path_6_p {
+	fill: url(#Path_6_p);
+}
+.Path_6_p {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 2405.489px;
+	left: 0px;
+	top: 289px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_14 {
+	transform: matrix(1,0,0,1,1989.9998,54.9998) rotate(-90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 68px;
+	height: 626px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_5 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_5 {
+	filter: drop-shadow(0px 3px 50px rgba(0, 0, 0, 0.322));
+	position: absolute;
+	overflow: visible;
+	width: 776px;
+	height: 218px;
+	left: 0px;
+	top: 0px;
+}
+#Group_1 {
+	transform: translate(-329px, 1841.837px) matrix(1,0,0,1,1794.342,359.8559) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 27.661px;
+	height: 15.427px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 30.661px;
+	height: 3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 30.661px;
+	height: 3px;
+	left: 0px;
+	top: 7.447px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	width: 30.661px;
+	height: 3px;
+	left: 0px;
+	top: 15.427px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_49_x {
+	fill: url(#Rectangle_49_x);
+}
+.Rectangle_49_x {
+	position: absolute;
+	overflow: visible;
+	width: 14px;
+	height: 2477px;
+	left: 850px;
+	top: 218px;
+}
+#Path_1 {
+	fill: rgba(28,28,28,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1056.583px;
+	height: 71.062px;
+	left: 863.417px;
+	top: 217.938px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#-_Fitting_the_gaps_in_educatio {
+	left: 927px;
+	top: 226px;
+	position: absolute;
+	overflow: visible;
+	width: 665px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_5_ {
+	fill: rgba(28,28,28,1);
+}
+.Rectangle_5_ {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 150px;
+	left: 0px;
+	top: -3px;
+}
+#Path_167 {
+	fill: rgba(235,235,235,1);
+}
+.Path_167 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 71.062px;
+	left: 0px;
+	top: 146.938px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#facebook {
+	position: absolute;
+	width: 30.655px;
+	height: 29.655px;
+	left: 1737px;
+	top: 63.345px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(255,255,255,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 30.654px;
+	height: 29.655px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+	fill: rgba(28,28,28,1);
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 13.9px;
+	height: 24.094px;
+	left: 11.826px;
+	top: 5.56px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#instagram_1 {
+	position: absolute;
+	width: 30.742px;
+	height: 30.628px;
+	left: 1792.939px;
+	top: 62.847px;
+	overflow: visible;
+}
+#Path_4 {
+	fill: rgba(255,255,255,1);
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 30.743px;
+	height: 30.628px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5 {
+	fill: rgba(255,255,255,1);
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 12.5px;
+	height: 12.453px;
+	left: 9.121px;
+	top: 9.087px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#linkedin-logo {
+	position: absolute;
+	width: 29.686px;
+	height: 29.686px;
+	left: 1682.32px;
+	top: 63.789px;
+	overflow: visible;
+}
+#post-linkedin {
+	position: absolute;
+	width: 29.686px;
+	height: 29.686px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_192 {
+	fill: rgba(255,255,255,1);
+}
+.Path_192 {
+	overflow: visible;
+	position: absolute;
+	width: 29.686px;
+	height: 29.686px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_3 {
+	position: absolute;
+	width: 376px;
+	height: 79px;
+	left: 38px;
+	top: 33px;
+	overflow: visible;
+}
+#Metvy_Learn_logo_FINAL {
+	position: absolute;
+	width: 79px;
+	height: 79px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Metvy_Learn {
+	left: 90px;
+	top: 12px;
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 51px;
+	color: rgba(246,246,246,1);
+}
+#Group_10 {
+	position: absolute;
+	width: 592px;
+	height: 36px;
+	left: 966px;
+	top: 60px;
+	overflow: visible;
+}
+#Group_4 {
+	position: absolute;
+	width: 117px;
+	height: 35px;
+	left: 317px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3 {
+	fill: rgba(88,88,88,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 117px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+}
+#About_Metvy {
+	left: 13px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(246,246,246,1);
+	letter-spacing: 0.1px;
+}
+#Group_6 {
+	position: absolute;
+	width: 97px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_5 {
+	position: absolute;
+	width: 97px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3_bk {
+	fill: rgba(88,88,88,1);
+}
+.Rectangle_3_bk {
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+}
+#Catalogue {
+	left: 12px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(246,246,246,1);
+	letter-spacing: 0.1px;
+}
+#Group_7 {
+	position: absolute;
+	width: 96px;
+	height: 35px;
+	left: 158.999px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_5_bn {
+	position: absolute;
+	width: 96px;
+	height: 35px;
+	left: 0.001px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3_bo {
+	fill: rgba(88,88,88,1);
+}
+.Rectangle_3_bo {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 35px;
+	left: 0px;
+	top: 0px;
+}
+#Register {
+	left: 18.001px;
+	top: 9px;
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(246,246,246,1);
+	letter-spacing: 0.1px;
+}
+#Group_8 {
+	position: absolute;
+	width: 96px;
+	height: 36px;
+	left: 496px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_5_br {
+	position: absolute;
+	width: 96px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3_bs {
+	fill: rgba(88,88,88,1);
+}
+.Rectangle_3_bs {
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+#Careers {
+	left: 20px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(246,246,246,1);
+	letter-spacing: 0.1px;
+}
+#twitter-sign {
+	position: absolute;
+	width: 29.211px;
+	height: 29.211px;
+	left: 1848.536px;
+	top: 63.789px;
+	overflow: visible;
+}
+#Path_7 {
+	fill: rgba(255,255,255,1);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 29.211px;
+	height: 29.211px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_59 {
+	position: absolute;
+	width: 466px;
+	height: 571px;
+	left: 181px;
+	top: 402px;
+	overflow: visible;
+}
+#Rectangle_69 {
+	opacity: 0.38;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_69 {
+	position: absolute;
+	overflow: visible;
+	width: 466px;
+	height: 571px;
+	left: 0px;
+	top: 0px;
+}
+#Group_60 {
+	position: absolute;
+	width: 383px;
+	height: 454px;
+	left: 42px;
+	top: 45px;
+	overflow: visible;
+}
+#Metvy_Business_Program {
+	left: 40px;
+	top: 343px;
+	position: absolute;
+	overflow: visible;
+	width: 303px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(255,255,255,1);
+}
+#MBP {
+	position: absolute;
+	width: 383px;
+	height: 383px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_61 {
+	position: absolute;
+	width: 466px;
+	height: 571px;
+	left: 1067px;
+	top: 402px;
+	overflow: visible;
+}
+#Rectangle_69_b {
+	opacity: 0.38;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_69_b {
+	position: absolute;
+	overflow: visible;
+	width: 466px;
+	height: 571px;
+	left: 0px;
+	top: 0px;
+}
+#Group_60_b {
+	position: absolute;
+	width: 316px;
+	height: 444px;
+	left: 75px;
+	top: 55px;
+	overflow: visible;
+}
+#Metvy_Research_Project_Program {
+	left: 0px;
+	top: 333px;
+	position: absolute;
+	overflow: visible;
+	width: 317px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(255,255,255,1);
+}
+#humaaans_1 {
+	position: absolute;
+	width: 216px;
+	height: 290px;
+	left: 50px;
+	top: 0px;
+	overflow: visible;
+}
+#Contact_Us {
+	left: 961px;
+	top: 2121px;
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Never_Miss_Our_News__Updates {
+	left: 961px;
+	top: 1327px;
+	position: absolute;
+	overflow: visible;
+	width: 735px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_7 {
+	fill: rgba(249,249,249,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1482px;
+	height: 386px;
+	left: 219px;
+	top: 1447px;
+}
+#Enter_your_E-mail_ {
+	left: 694px;
+	top: 1621px;
+	position: absolute;
+	overflow: visible;
+	width: 275px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Helvetica Now Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(72,72,72,1);
+	letter-spacing: 0.1px;
+}
+#Line_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_5 {
+	overflow: visible;
+	position: absolute;
+	width: 684px;
+	height: 2px;
+	left: 684.5px;
+	top: 1668.973px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#noun_Mail_3520039 {
+	position: absolute;
+	width: 256.531px;
+	height: 252.184px;
+	left: 302.2px;
+	top: 1514.473px;
+	overflow: visible;
+}
+#Path_225_cd {
+	fill: url(#Path_225_cd);
+}
+.Path_225_cd {
+	overflow: visible;
+	position: absolute;
+	width: 256.53px;
+	height: 252.184px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_51 {
+	position: absolute;
+	width: 90px;
+	height: 90px;
+	left: 1405px;
+	top: 1595px;
+	overflow: visible;
+}
+#Ellipse_12 {
+	fill: rgba(67,187,142,1);
+}
+.Ellipse_12 {
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	height: 90px;
+	left: 0px;
+	top: 0px;
+}
+#noun_send_992838 {
+	position: absolute;
+	width: 40.571px;
+	height: 33.194px;
+	left: 22.994px;
+	top: 32.286px;
+	overflow: visible;
+}
+#Group_50 {
+	position: absolute;
+	width: 40.571px;
+	height: 33.194px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_226 {
+	fill: rgba(255,255,255,1);
+}
+.Path_226 {
+	overflow: visible;
+	position: absolute;
+	width: 40.571px;
+	height: 33.194px;
+	left: 0.001px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
